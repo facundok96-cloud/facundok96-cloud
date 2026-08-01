@@ -1,4 +1,9 @@
 <h1 align="center">Hola 👋, mi nombre es Facundo Kearney</h1>
+
+<img width="1024" height="1024" alt="6fee618a-8c83-4273-bdf3-fb4035462415" src="https://github.com/user-attachments/assets/b86dae06-e105-407d-8e5e-641c079f7d75" />
+
+
+
 <h3 align="center">Un apacionado desarrollador Full-Stack de Argentina, actualmente residiendo en España!</h3>
 
 - 🌱 I’m currently learning **Angular e investigando sobre IA**
