@@ -6,7 +6,7 @@
 
 <h3 align="center">Un apacionado desarrollador Full-Stack de Argentina, actualmente residiendo en España!</h3>
 
-- 🌱 I’m currently learning **Angular e investigando sobre IA**
+- 🌱 Actualmente estoy aprendiendo **Angular e investigando sobre IA**
 
 - 📫 Mi contacto: **facundok96@gmail.com**
 
